@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: PyChatM
+Version: 0.1.4
+Summary: PyChat
+Home-page: UNKNOWN
+Author: M0U5S3
+Author-email: dariushwalker28@gmail.com
+License: UNKNOWN
+Keywords: python,package,socket,encryption,server,client,M0U5S3,chat,social
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+
+A fully encrypted chat server + client (includes a GUI)
+
