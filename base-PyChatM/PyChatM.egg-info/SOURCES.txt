@@ -1,8 +1,0 @@
-setup.py
-PyChatM/PyChat.py
-PyChatM/__init__.py
-PyChatM.egg-info/PKG-INFO
-PyChatM.egg-info/SOURCES.txt
-PyChatM.egg-info/dependency_links.txt
-PyChatM.egg-info/requires.txt
-PyChatM.egg-info/top_level.txt
