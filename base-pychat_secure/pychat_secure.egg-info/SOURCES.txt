@@ -1,0 +1,8 @@
+setup.py
+pychat_secure/__init__.py
+pychat_secure/pychat_secure.py
+pychat_secure.egg-info/PKG-INFO
+pychat_secure.egg-info/SOURCES.txt
+pychat_secure.egg-info/dependency_links.txt
+pychat_secure.egg-info/requires.txt
+pychat_secure.egg-info/top_level.txt
